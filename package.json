@@ -1,0 +1,16 @@
+{
+    "name": "karma",
+    "version": "0.0.1",
+    "license": "MIT",
+    "dependencies": {
+			"karma": "latest",
+			"karma-browserstack-launcher": "latest",
+			"karma-chrome-launcher": "latest",
+			"karma-qunit": "latest",
+			"karma-coverage": "latest",
+			"karma-junit-reporter": "latest",
+			"karma-coverage-istanbul-reporter": "latest",
+			"qunit": "latest",
+			"xunit-viewer": "latest"
+    }
+}
